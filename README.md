@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hello, welcome! My name is Afonso 
+### A lover of technology and programming
+<br>
 
-<!--
-**Afonzer/Afonzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My repositories content
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Afonzer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afonzer&layout=compact&theme=tokyonight"/>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Languages 
+<div style="display: inline_block"> 
+<img align="center" alt="" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img align="center" alt="" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img align="center" alt="" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img align="center" alt="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+  
+</div>
+
+
