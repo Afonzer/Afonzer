@@ -4,8 +4,8 @@
 
 ## My repositories content
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Afonzer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afonzer&layout=compact&theme=tokyonight"/>
+  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api?username=Afonzer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afonzer&layout=compact&theme=tokyonight"/>
 </div>
 
 
